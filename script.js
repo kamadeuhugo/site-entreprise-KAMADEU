@@ -1,4 +1,4 @@
-cat > script.js << 'EOF'
+
 // Menu burger responsive
 const logo = document.querySelector('.logo');
 const navUl = document.querySelector('nav ul');

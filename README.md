@@ -1,4 +1,4 @@
-cat > README.md << 'EOF'
+
 # Site Entreprise - TechCam Solutions
 *Etudiant :* KAMADEU DEUYO JESSY HUGO
 
@@ -30,4 +30,4 @@ feature/* → test/frontend → dev → master
 - git merge
 - git log / git status
 - git push / git pull
-EOF
+
